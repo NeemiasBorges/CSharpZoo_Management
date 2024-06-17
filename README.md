@@ -1,4 +1,4 @@
-# VetTec
+# VetTec [For study purposes] 
 
 # Sistema de Zoológico
 
