@@ -190,8 +190,6 @@ To contribute:
 
 ## Licença / License
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 This project is licensed under the [MIT License](LICENSE).
 
 ---
