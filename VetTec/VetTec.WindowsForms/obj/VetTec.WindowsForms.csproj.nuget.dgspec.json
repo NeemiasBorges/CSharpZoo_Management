@@ -268,6 +268,10 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "MetroSet_UI": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
             "Serilog": {
               "target": "Package",
               "version": "[4.0.0, )"

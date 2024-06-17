@@ -2,6 +2,7 @@
 using System;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using VetTec.Application.NETFrame.Services;
 using VetTec.Domain.NETFrame.Entities;
 using VetTec.Entities;
 using VetTec.WindowsForms.Views.Animals;
@@ -11,15 +12,14 @@ namespace VetTec.WinForms
     public partial class FormList : Form
     {
         private readonly AnimalService _animalService;
-        private readonly UserDB _currentUser;
+        private readonly UserService _userService;
 
-        public FormList(AnimalService animalService, UserDB currentUser)
+        public FormList(AnimalService animalService, UserService userService)
         {
             InitializeComponent();
             _animalService = animalService;
-            _currentUser = currentUser;
+            _userService = userService;
             LoadAnimals();
-            label1.Text = $"Usuário Conectado: {_currentUser.email}";
         }
 
         private async Task LoadAnimals()
@@ -28,7 +28,12 @@ namespace VetTec.WinForms
             dataGridView1.DataSource = animais.ToList();
         }
 
-        private void button1_Click(object sender, EventArgs e) // Deletar
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void metroSet_Btn_Delete_Click(object sender, EventArgs e)
         {
             if (dataGridView1.SelectedRows.Count > 0)
             {
@@ -42,7 +47,7 @@ namespace VetTec.WinForms
             }
         }
 
-        private void button2_Click(object sender, EventArgs e) // Editar
+        private void metroSetButton1_Click(object sender, EventArgs e)
         {
             if (dataGridView1.SelectedRows.Count > 0)
             {
@@ -57,21 +62,26 @@ namespace VetTec.WinForms
             }
         }
 
-        private void button3_Click(object sender, EventArgs e) // Adicionar Novo Animal
+        private void metroSetButton1_Click_1(object sender, EventArgs e)
         {
             var addForm = new AddAnimalForm(_animalService);
             addForm.ShowDialog();
             LoadAnimals();
         }
 
-        private void button4_Click(object sender, EventArgs e) // Deslogar
+        private void metroSetLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dlga_btn_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void metroSetBadge1_Click(object sender, EventArgs e)
         {
-            // Você pode implementar alguma funcionalidade adicional aqui se necessário.
+
         }
     }
 }

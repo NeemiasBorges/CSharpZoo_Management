@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Bs8ohsXWipJcPVEosuW9Uf9IRQmgqGMFdbRyHW+oDt1vdSxuKFJZ0ZU759XgtfqHa53JJt7Ykzvs5P2FGOzxiA==",
+  "dgSpecHash": "Efql0bKW3KGEt0MffVHIwD1tuVQ/9EJNzLfu+6HCR9IMBZsPOroi7NBYy3hLU3jpenGcNUrEBGSAkGURFw55qw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.WindowsForms\\VetTec.WindowsForms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ifspn\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ifspn\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
+    "C:\\Users\\ifspn\\.nuget\\packages\\metroset_ui\\2.0.0\\metroset_ui.2.0.0.nupkg.sha512",
     "C:\\Users\\ifspn\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ifspn\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ifspn\\.nuget\\packages\\microsoft.data.sqlclient\\5.2.1\\microsoft.data.sqlclient.5.2.1.nupkg.sha512",

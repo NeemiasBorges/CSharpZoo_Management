@@ -1,12 +1,3 @@
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.csproj.AssemblyReference.cache
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.Views.Animals.AddEditAnimalForm.resources
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WinForms.FormList.resources
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.csproj.GenerateResource.cache
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.AssemblyInfoInputs.cache
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.AssemblyInfo.cs
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.csproj.CoreCompileInputs.cache
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.sourcelink.json
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\VetTec.WindowsForms.exe
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\VetTec.WindowsForms.dll.config
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\VetTec.WindowsForms.deps.json
@@ -15,6 +6,7 @@ C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\VetTec.WindowsForms.pdb
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\Azure.Core.dll
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\MetroSet UI.dll
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
@@ -66,10 +58,20 @@ C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\VetTec.Application.NETFrame.pdb
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\VetTec.Domain.NETFrame.pdb
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\bin\Debug\net8.0-windows\VetTec.Repository.NETFrame.pdb
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.Views.Animals.AddAnimalForm.resources
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.Views.Animals.AddEditAnimalForm.resources
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WinForms.FormList.resources
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.Views.User.LoginUserForm.resources
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.csproj.GenerateResource.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.AssemblyInfoInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.AssemblyInfo.cs
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.sourcelink.json
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.W.ECAE6185.Up2Date
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.dll
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\refint\VetTec.WindowsForms.dll
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.pdb
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.genruntimeconfig.cache
 C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\ref\VetTec.WindowsForms.dll
-C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.WindowsForms\obj\Debug\net8.0-windows\VetTec.WindowsForms.Views.Animals.AddAnimalForm.resources

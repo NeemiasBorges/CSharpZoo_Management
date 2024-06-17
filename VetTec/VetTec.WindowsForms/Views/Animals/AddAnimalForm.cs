@@ -10,10 +10,20 @@ namespace VetTec.WindowsForms.Views.Animals
             _animalService = animalService;
             InitializeComponent();
         }
-        private void buttonSave_Click(object sender, EventArgs e)
+
+        private void metroSetTile1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxSpecie_SelectedIndexChanged(object sender, EventArgs e)
+        {
+        }
+
+        private void buttonSaves_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(textBoxName.Text) ||
-                string.IsNullOrWhiteSpace(textBoxSpecies.Text))
+               string.IsNullOrWhiteSpace(textBoxSpecie.Text))
             {
                 MessageBox.Show("Por favor, preencha todos os campos obrigatórios.");
                 return;
@@ -21,8 +31,8 @@ namespace VetTec.WindowsForms.Views.Animals
             var newAnimal = new Animal
             {
                 Name = textBoxName.Text,
-                Species = textBoxSpecies.Text,
-                Age = (int)numericUpDownAge.Value,
+                Species = textBoxSpecie.Text,
+                Age = (int)numericUpDownAges.Value,
                 Description = textBoxDescription.Text
             };
             _animalService.AdicionarAnimal(newAnimal);
@@ -30,7 +40,7 @@ namespace VetTec.WindowsForms.Views.Animals
             this.Close();
         }
 
-        private void textBoxSpecies_TextChanged(object sender, EventArgs e)
+        private void textBoxDescription_TextChanged(object sender, EventArgs e)
         {
 
         }

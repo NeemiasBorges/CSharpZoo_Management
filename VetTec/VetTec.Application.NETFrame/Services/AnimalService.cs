@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using VetTec.Entities.Interfaces;
+﻿using Serilog;
 using VetTec.Entities;
-using Serilog;
+using VetTec.Entities.Interfaces;
 
 public class AnimalService
 {
@@ -20,7 +18,7 @@ public class AnimalService
         try
         {
             await _animalRepository.AddAnimal(animal);
-            _logger.Information("Animal adicionado com sucesso: {Animal}", animal);
+            _logger.Information($"Animal : {animal.Name} - {animal.Species} adicionado com sucesso: por: adm@adm.com às {DateTime.Now}");
         }
         catch (Exception ex)
         {
@@ -34,7 +32,7 @@ public class AnimalService
         try
         {
             await _animalRepository.UpdateAnimal(animal);
-            _logger.Information("Animal atualizado com sucesso: {Animal}", animal);
+            _logger.Information($"Animal : {animal.Name} - {animal.Species} atualizado com sucesso: por: adm@adm.com às {DateTime.Now}");
         }
         catch (Exception ex)
         {
@@ -48,7 +46,7 @@ public class AnimalService
         try
         {
             _animalRepository.DeleteAnimal(id);
-            _logger.Information("Animal removido com sucesso: {Id}", id);
+            _logger.Information($"Animal : {id} Removido com sucesso: por: adm@adm.com às {DateTime.Now}");
         }
         catch (Exception ex)
         {
@@ -77,7 +75,7 @@ public class AnimalService
         try
         {
             var animais = await _animalRepository.GetAnimals();
-            _logger.Information("Todos os animais obtidos com sucesso");
+            _logger.Information($"Todos os animais obtidos com sucesso às {DateTime.Now}");
             return animais;
         }
         catch (Exception ex)

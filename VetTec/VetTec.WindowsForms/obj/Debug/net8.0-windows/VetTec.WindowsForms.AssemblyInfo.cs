@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VetTec.WindowsForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82932861321ab7b0491cfd1e9e23f45c92a37ed7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18bd1bd5f973584f07828d62c4843dd1052ec6a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("VetTec.WindowsForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VetTec.WindowsForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

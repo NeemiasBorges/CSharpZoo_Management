@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{44038ED9-E4E6-4D59-93FF-448828CB6891}|VetTec.Application.NETFrame\\VetTec.Application.NETFrame.csproj|solutionrelative:vettec.application.netframe\\services\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B039E542-31FC-4A41-BAFC-C1704A664421}|VetTec.Repository.NETFrame\\VetTec.Repository.NETFrame.csproj|c:\\users\\ifspn\\onedrive\\desktop\\apps\\portifolio\\comunucacao\\vettec\\vettec\\vettec.repository.netframe\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B039E542-31FC-4A41-BAFC-C1704A664421}|VetTec.Repository.NETFrame\\VetTec.Repository.NETFrame.csproj|solutionrelative:vettec.repository.netframe\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2415095-07CA-4466-B031-654570B29140}|VetTec.Domain.NETFrame\\VetTec.Domain.NETFrame.csproj|c:\\users\\ifspn\\onedrive\\desktop\\apps\\portifolio\\comunucacao\\vettec\\vettec\\vettec.domain.netframe\\entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2415095-07CA-4466-B031-654570B29140}|VetTec.Domain.NETFrame\\VetTec.Domain.NETFrame.csproj|solutionrelative:vettec.domain.netframe\\entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFDD2E0B-6266-48C3-B3E3-10C36B548543}|VetTec.WindowsForms\\VetTec.WindowsForms.csproj|c:\\users\\ifspn\\onedrive\\desktop\\apps\\portifolio\\comunucacao\\vettec\\vettec\\vettec.windowsforms\\views\\animals\\addeditanimalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFDD2E0B-6266-48C3-B3E3-10C36B548543}|VetTec.WindowsForms\\VetTec.WindowsForms.csproj|solutionrelative:vettec.windowsforms\\views\\animals\\addeditanimalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFDD2E0B-6266-48C3-B3E3-10C36B548543}|VetTec.WindowsForms\\VetTec.WindowsForms.csproj|c:\\users\\ifspn\\onedrive\\desktop\\apps\\portifolio\\comunucacao\\vettec\\vettec\\vettec.windowsforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AFDD2E0B-6266-48C3-B3E3-10C36B548543}|VetTec.WindowsForms\\VetTec.WindowsForms.csproj|solutionrelative:vettec.windowsforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B039E542-31FC-4A41-BAFC-C1704A664421}|VetTec.Repository.NETFrame\\VetTec.Repository.NETFrame.csproj|c:\\users\\ifspn\\onedrive\\desktop\\apps\\portifolio\\comunucacao\\vettec\\vettec\\vettec.repository.netframe\\repositories\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B039E542-31FC-4A41-BAFC-C1704A664421}|VetTec.Repository.NETFrame\\VetTec.Repository.NETFrame.csproj|solutionrelative:vettec.repository.netframe\\repositories\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,60 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.Domain.NETFrame\\Entities\\Animal.cs",
-              "RelativeDocumentMoniker": "VetTec.Domain.NETFrame\\Entities\\Animal.cs",
-              "ToolTip": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.Domain.NETFrame\\Entities\\Animal.cs",
-              "RelativeToolTip": "VetTec.Domain.NETFrame\\Entities\\Animal.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAYwBkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T07:53:11.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AnimalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.Repository.NETFrame\\AnimalRepository.cs",
-              "RelativeDocumentMoniker": "VetTec.Repository.NETFrame\\AnimalRepository.cs",
-              "ToolTip": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.Repository.NETFrame\\AnimalRepository.cs",
-              "RelativeToolTip": "VetTec.Repository.NETFrame\\AnimalRepository.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAmwG4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T07:47:19.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.WindowsForms\\App.config",
-              "RelativeDocumentMoniker": "VetTec.WindowsForms\\App.config",
-              "ToolTip": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.WindowsForms\\App.config",
-              "RelativeToolTip": "VetTec.WindowsForms\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-17T07:45:40.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddEditAnimalForm.cs",
-              "DocumentMoniker": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.WindowsForms\\Views\\Animals\\AddEditAnimalForm.cs",
-              "RelativeDocumentMoniker": "VetTec.WindowsForms\\Views\\Animals\\AddEditAnimalForm.cs",
-              "ToolTip": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.WindowsForms\\Views\\Animals\\AddEditAnimalForm.cs",
-              "RelativeToolTip": "VetTec.WindowsForms\\Views\\Animals\\AddEditAnimalForm.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T07:45:09.944Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -92,9 +32,35 @@
               "RelativeDocumentMoniker": "VetTec.Application.NETFrame\\Services\\AnimalService.cs",
               "ToolTip": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.Application.NETFrame\\Services\\AnimalService.cs",
               "RelativeToolTip": "VetTec.Application.NETFrame\\Services\\AnimalService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAAAEAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T07:44:09.845Z",
+              "WhenOpened": "2024-06-17T22:53:12.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.Domain.NETFrame\\Entities\\Animal.cs",
+              "RelativeDocumentMoniker": "VetTec.Domain.NETFrame\\Entities\\Animal.cs",
+              "ToolTip": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.Domain.NETFrame\\Entities\\Animal.cs",
+              "RelativeToolTip": "VetTec.Domain.NETFrame\\Entities\\Animal.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:53:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.Repository.NETFrame\\Repositories\\AnimalRepository.cs",
+              "RelativeDocumentMoniker": "VetTec.Repository.NETFrame\\Repositories\\AnimalRepository.cs",
+              "ToolTip": "C:\\Users\\ifspn\\OneDrive\\Desktop\\APPS\\PORTIFOLIO\\COMUNUCACAO\\VetTec\\VetTec\\VetTec.Repository.NETFrame\\Repositories\\AnimalRepository.cs",
+              "RelativeToolTip": "VetTec.Repository.NETFrame\\Repositories\\AnimalRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:53:00.013Z",
               "EditorCaption": ""
             }
           ]

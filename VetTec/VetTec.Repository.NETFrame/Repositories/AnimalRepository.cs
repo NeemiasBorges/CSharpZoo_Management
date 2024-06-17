@@ -15,10 +15,11 @@ namespace VetTec.Repository
         {
             using (var conn = new SqlConnection(_connectionString))
             {
-                var cmd = new SqlCommand(" INSERT INTO Animals ( Name ,Species, Age ) VALUES ( @Name, @Species, @Age )", conn);
+                var cmd = new SqlCommand(" INSERT INTO Animals ( Name ,Species, Age,Description ) VALUES ( @Name, @Species, @Age,@Description )", conn);
                 cmd.Parameters.AddWithValue("@Name", animal.Name);
                 cmd.Parameters.AddWithValue("@Species", animal.Species);
                 cmd.Parameters.AddWithValue("@Age", animal.Age);
+                cmd.Parameters.AddWithValue("@Description", animal.Description);
 
                 conn.Open();
                 cmd.ExecuteNonQuery();

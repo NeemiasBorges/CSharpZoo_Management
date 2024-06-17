@@ -1,8 +1,11 @@
 using Microsoft.VisualBasic.ApplicationServices;
 using Serilog;
 using System.Configuration;
+using VetTec.Application.NETFrame.Services;
 using VetTec.Domain.NETFrame.Entities;
 using VetTec.Repository;
+using VetTec.Repository.NETFrame.Repositories;
+using VetTec.WindowsForms.Views.User;
 using VetTec.WinForms;
 using Log = Serilog.Log;
 
@@ -22,15 +25,18 @@ public static class Program
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // Ler a string de conexão do arquivo de configuração
             var connectionString = ConfigurationManager.ConnectionStrings["PetShopDatabase"].ConnectionString;
             UserDB currentUser = new UserDB { email = "admin" };
-            // Cria instâncias das classes de repositório e serviço
+
             var animalRepository = new AnimalRepository(connectionString);
             var animalService = new AnimalService(animalRepository, Log.Logger);
+            
+            var userRepository = new UserRepository(connectionString);
+            var userService = new UserService(userRepository, Log.Logger);
 
-            // Inicializa o formulário principal com o serviço injetado
-            Application.Run(new FormList(animalService, currentUser));
+
+            Application.Run(new LoginUserForm(animalService, userService));
+            //Application.Run(new FormList(animalService, currentUser));
         }
         catch (Exception ex)
         {

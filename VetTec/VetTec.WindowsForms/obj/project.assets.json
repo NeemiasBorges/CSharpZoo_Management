@@ -47,6 +47,18 @@
           }
         }
       },
+      "MetroSet_UI/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/MetroSet UI.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MetroSet UI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -780,6 +792,21 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "MetroSet_UI/2.0.0": {
+      "sha512": "7FO1rFTiht/j+xdvyRBQOv3JL8yoKBwQrrBuA/Zbz98sNIhgpNDO977ZumAz6TTfbuIT/4waSHsFBp01cXDDIA==",
+      "type": "package",
+      "path": "metroset_ui/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "MetroSet.png",
+        "lib/net45/MetroSet UI.dll",
+        "lib/netcoreapp3.1/MetroSet UI.dll",
+        "metroset_ui.2.0.0.nupkg.sha512",
+        "metroset_ui.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -1992,6 +2019,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "MetroSet_UI >= 2.0.0",
       "Serilog >= 4.0.0",
       "Serilog.Sinks.Seq >= 8.0.0",
       "VetTec.Application.NETFrame >= 1.0.0"
@@ -2050,6 +2078,10 @@
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "dependencies": {
+          "MetroSet_UI": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "Serilog": {
             "target": "Package",
             "version": "[4.0.0, )"
