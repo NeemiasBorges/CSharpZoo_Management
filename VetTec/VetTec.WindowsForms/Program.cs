@@ -25,7 +25,7 @@ public static class Program
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            var connectionString = ConfigurationManager.ConnectionStrings["PetShopDatabase"].ConnectionString;
+            var connectionString = ConfigurationManager.AppSettings["PetShopDatabase"].ToString();
             UserDB currentUser = new UserDB { email = "admin" };
 
             var animalRepository = new AnimalRepository(connectionString);

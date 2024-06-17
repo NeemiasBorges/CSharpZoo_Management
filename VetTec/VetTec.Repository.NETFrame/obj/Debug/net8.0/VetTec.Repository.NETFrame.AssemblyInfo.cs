@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VetTec.Repository.NETFrame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18bd1bd5f973584f07828d62c4843dd1052ec6a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a27ef62759250c1d0305cd03d570af09f3a239")]
 [assembly: System.Reflection.AssemblyProductAttribute("VetTec.Repository.NETFrame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VetTec.Repository.NETFrame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
