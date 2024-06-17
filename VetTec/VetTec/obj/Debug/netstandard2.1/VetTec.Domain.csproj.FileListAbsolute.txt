@@ -1,0 +1,10 @@
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\bin\Debug\netstandard2.1\VetTec.Domain.deps.json
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\bin\Debug\netstandard2.1\VetTec.Domain.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\bin\Debug\netstandard2.1\VetTec.Domain.pdb
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\obj\Debug\netstandard2.1\VetTec.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\obj\Debug\netstandard2.1\VetTec.Domain.AssemblyInfoInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\obj\Debug\netstandard2.1\VetTec.Domain.AssemblyInfo.cs
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\obj\Debug\netstandard2.1\VetTec.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\obj\Debug\netstandard2.1\VetTec.Domain.sourcelink.json
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\obj\Debug\netstandard2.1\VetTec.Domain.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec\obj\Debug\netstandard2.1\VetTec.Domain.pdb

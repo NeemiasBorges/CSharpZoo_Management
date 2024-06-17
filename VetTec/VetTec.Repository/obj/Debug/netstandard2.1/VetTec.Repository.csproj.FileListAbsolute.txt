@@ -1,0 +1,14 @@
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\bin\Debug\netstandard2.1\VetTec.Repository.deps.json
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\bin\Debug\netstandard2.1\VetTec.Repository.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\bin\Debug\netstandard2.1\VetTec.Repository.pdb
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\bin\Debug\netstandard2.1\VetTec.Domain.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\bin\Debug\netstandard2.1\VetTec.Domain.pdb
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\obj\Debug\netstandard2.1\VetTec.Repository.csproj.AssemblyReference.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\obj\Debug\netstandard2.1\VetTec.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\obj\Debug\netstandard2.1\VetTec.Repository.AssemblyInfoInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\obj\Debug\netstandard2.1\VetTec.Repository.AssemblyInfo.cs
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\obj\Debug\netstandard2.1\VetTec.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\obj\Debug\netstandard2.1\VetTec.Repository.sourcelink.json
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\obj\Debug\netstandard2.1\VetTec.R.C45A6A1C.Up2Date
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\obj\Debug\netstandard2.1\VetTec.Repository.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository\obj\Debug\netstandard2.1\VetTec.Repository.pdb

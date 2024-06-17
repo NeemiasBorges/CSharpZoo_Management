@@ -1,0 +1,16 @@
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\bin\Debug\net8.0\VetTec.Repository.NETFrame.deps.json
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\bin\Debug\net8.0\VetTec.Repository.NETFrame.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\bin\Debug\net8.0\VetTec.Repository.NETFrame.pdb
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\bin\Debug\net8.0\VetTec.Domain.NETFrame.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\bin\Debug\net8.0\VetTec.Domain.NETFrame.pdb
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\VetTec.Repository.NETFrame.csproj.AssemblyReference.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\VetTec.Repository.NETFrame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\VetTec.Repository.NETFrame.AssemblyInfoInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\VetTec.Repository.NETFrame.AssemblyInfo.cs
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\VetTec.Repository.NETFrame.csproj.CoreCompileInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\VetTec.Repository.NETFrame.sourcelink.json
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\VetTec.R.9D93DC07.Up2Date
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\VetTec.Repository.NETFrame.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\refint\VetTec.Repository.NETFrame.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\VetTec.Repository.NETFrame.pdb
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Repository.NETFrame\obj\Debug\net8.0\ref\VetTec.Repository.NETFrame.dll

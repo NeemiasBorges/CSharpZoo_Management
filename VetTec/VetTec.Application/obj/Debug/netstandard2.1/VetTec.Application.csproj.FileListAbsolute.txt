@@ -1,0 +1,14 @@
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\bin\Debug\netstandard2.1\VetTec.Application.deps.json
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\bin\Debug\netstandard2.1\VetTec.Application.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\bin\Debug\netstandard2.1\VetTec.Application.pdb
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\bin\Debug\netstandard2.1\VetTec.Domain.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\bin\Debug\netstandard2.1\VetTec.Domain.pdb
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\obj\Debug\netstandard2.1\VetTec.Application.csproj.AssemblyReference.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\obj\Debug\netstandard2.1\VetTec.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\obj\Debug\netstandard2.1\VetTec.Application.AssemblyInfoInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\obj\Debug\netstandard2.1\VetTec.Application.AssemblyInfo.cs
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\obj\Debug\netstandard2.1\VetTec.Application.csproj.CoreCompileInputs.cache
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\obj\Debug\netstandard2.1\VetTec.Application.sourcelink.json
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\obj\Debug\netstandard2.1\VetTec.A.E4279423.Up2Date
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\obj\Debug\netstandard2.1\VetTec.Application.dll
+C:\Users\ifspn\OneDrive\Desktop\APPS\PORTIFOLIO\COMUNUCACAO\VetTec\VetTec\VetTec.Application\obj\Debug\netstandard2.1\VetTec.Application.pdb
