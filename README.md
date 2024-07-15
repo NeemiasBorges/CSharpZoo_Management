@@ -121,39 +121,6 @@ To configure Seq Datalust, follow the instructions below:
 
    Start Seq and configure the URL and API key in the `appsettings.json` file as mentioned in the installation section.
 
-3. No código, adicione a configuração do Seq no momento da inicialização do sistema:
-
-   In the code, add the Seq configuration during the system initialization:
-
-   ```csharp
-   Log.Logger = new LoggerConfiguration()
-       .WriteTo.Seq("http://localhost:5341", apiKey: "sua-chave-api-seq")
-       .CreateLogger();
-
-   // Certifique-se de fechar o logger ao finalizar o aplicativo
-   // Ensure the logger is closed when the application exits
-   Application.ApplicationExit += (sender, args) => Log.CloseAndFlush();
-   ```
-
-4. Utilize o logger em diferentes partes do sistema para registrar eventos e erros:
-
-   Use the logger in different parts of the system to log events and errors:
-
-   ```csharp
-   try
-   {
-       // Código do sistema
-       // System code
-   }
-   catch (Exception ex)
-   {
-       Log.Error(ex, "Ocorreu um erro ao processar a solicitação.");
-       Log.Error(ex, "An error occurred while processing the request.");
-       MessageBox.Show("Ocorreu um erro. Por favor, verifique os logs para mais detalhes.");
-       MessageBox.Show("An error occurred. Please check the logs for more details.");
-   }
-   ```
-
 ## Uso / Usage
 
 1. Inicie a aplicação pelo Visual Studio ou via terminal:
